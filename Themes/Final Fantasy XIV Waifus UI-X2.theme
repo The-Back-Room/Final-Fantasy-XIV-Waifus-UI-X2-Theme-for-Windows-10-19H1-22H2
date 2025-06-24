@@ -68,7 +68,7 @@ SchemeName=Final Fantasy XIV Waifus UI-X2
 [AppEvents\Schemes\Apps\.Default\.Default]
 DefaultValue=%SYSTEMROOT%\Resources\Themes\Final Fantasy XIV Waifus UI-X2\Sounds\ding.wav
 [AppEvents\Schemes\Apps\.Default\ChangeTheme]
-DefaultValue=%SYSTEMROOT%\Resources\Themes\Final Fantasy XIV Waifus UI-X2\Sounds\changetheme.wav
+DefaultValue=
 [AppEvents\Schemes\Apps\.Default\Logon]
 DefaultValue=
 [AppEvents\Schemes\Apps\.Default\Logoff]
